@@ -1,4 +1,4 @@
-#Palindromes problem in March Easy 2019
+#Permutations problem in March Easy 2019
 #problem link - https://www.hackerearth.com/problem/algorithm/permutations-3-5d18252f/
 #
 
